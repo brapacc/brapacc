@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brapacc
 - 👀 I’m interested in Creative Learning
 - 🌱 I’m currently learning Web3 and Culture 4.0
-- 💞️ I’m looking to collaborate on developing creative thinking
+- 💞️ I’m looking to collaborate on developing a light metaverse for Castelvecchio, Siena
 - 📫 How to reach me @tormiento on Twitter
 
 <!---
